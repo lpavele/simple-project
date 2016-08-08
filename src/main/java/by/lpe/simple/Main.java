@@ -10,6 +10,7 @@ public class Main {
 
     public static String helloWorld(){
         String str = "Hello world!";
+        str+=" Version 1.1";
         System.out.println(str);
         return str;
     }
